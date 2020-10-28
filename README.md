@@ -9,7 +9,13 @@ For that we switched between 2 solutions to get an accurate results at the end :
 1. If the person was far away from the zone (ex. the room) we need to get the result from the programm of camera 
 2. If the person was inside the zone we need to cofirm the results using the network of microphones
 
+The simulation of our programs was made by the camera & microphone of the computer, in order to use Raspberry Pi 3b+ with a raspbian OS.
+
 ## Resuluts
+Here are some pictures of our results, some of them were a screenshots of a video and other were just a simple images passed as an input of the program :
+
+to see a demo video on my youtube chanel you can follow this link :
+      https://www.youtube.com/watch?v=6zsvt4dfRoQ
 
 ## Contents
 
