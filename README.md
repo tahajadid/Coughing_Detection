@@ -2,3 +2,11 @@
 
 Coughind detection by camera using Artificial Inteligent and a network of microphones
 
+## Introduction
+
+## Resuluts
+
+## Contents
+
+## Require
+
