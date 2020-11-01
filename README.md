@@ -13,7 +13,7 @@ The simulation of our programs was made by the camera & microphone of the comput
 
 ## Resuluts
 Here are some pictures of our results, some of them were a screenshots of a video and other were just a simple images passed as an input of the program :&nbsp;
-![image](https://github.com/tahajadid/Coughing_Detection/blob/main/img_result/result5.png) \
+![image](https://github.com/tahajadid/Coughing_Detection/blob/main/img_result/result5.png)
 To see a demo video on my youtube chanel you can follow [this link](https://www.youtube.com/watch?v=6zsvt4dfRoQ)
 
 
